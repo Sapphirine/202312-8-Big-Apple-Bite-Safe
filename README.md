@@ -1,6 +1,6 @@
 # Big-Apple-Bite-Safe
 
-## Group: Big Apple Bite Safe
+## Group: team 8 - Big Apple Bite Safe
 
 ## Team Members:
 Isa Wang(yw3886)
